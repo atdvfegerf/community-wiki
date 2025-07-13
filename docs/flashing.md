@@ -93,8 +93,10 @@ For support or assistance, please refer to the official Rabbit Inc. community ch
 ## 🔹 Step 3: Enter Fastboot Mode
 
 ### Step 1: Enter Fastboot Mode
+ -turn off the device
 - Go to the **Rabbit R1 flashing page** →  
   **[Click here to enter Fastboot Mode](https://rabbit-hmi-oss.github.io/flashing/)**
+  - [install these](https://github.com/rabbit-hmi-oss/firmware/releases/tag/drivers)
 - Click on `"Enter Fastboot Mode"`.
 - Connect the **Rabbit R1** to the PC via USB cable.
 - A device selection window will appear. **Quickly select** `"MT65 Preloader"` within **1.5 seconds** and click **OK**.
